@@ -1,16 +1,13 @@
-## Hi there 👋
+## Gabriel Torres Ribeiro
+Full Stack Developer
 
-<!--
-**GITHUB-GabrielTorres/GITHUB-GabrielTorres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvo aplicações backend e frontend, com experiência prática 
+em deploy e infraestrutura em nuvem.
 
-Here are some ideas to get you started:
+**Backend:** Python, Django, Django REST Framework, PostgreSQL/SQL
+**Frontend:** JavaScript, React, Next.js
+**DevOps/Infra:** Linux, Deploy (GCP)
+**Idiomas:** Português (nativo), Inglês (fluente)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 Balneário Camboriú, SC
+🔗 [LinkedIn] · [Portfólio] · [Email]
