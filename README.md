@@ -10,4 +10,3 @@ em deploy e infraestrutura em nuvem.
 **Idiomas:** Português (nativo), Inglês (fluente)
 
 📍 Balneário Camboriú, SC
-🔗 [LinkedIn] · [Portfólio] · [Email]
